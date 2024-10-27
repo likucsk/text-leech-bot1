@@ -24,7 +24,7 @@
 
 ## Deploy To Koyeb
               
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/AshutoshGoswami24/text-leech-bot&branch=main&name=ashutoshgoswami" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/likucsk/text-leech-bot&branch=main&name=ashutoshgoswami" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
 
 ## Deploy To Render                  
