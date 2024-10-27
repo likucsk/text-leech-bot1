@@ -5,4 +5,4 @@ API_HASH  = os.environ.get("API_HASH", "bbafb67e1e87fc1ad1ab339b9c3077f9")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "6997067603:AAH1AO8u8ieBgby-_0fDSpYO-DAyEOMQ_2o") 
 
 WEBHOOK = True  # Don't change this
-PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
+PORT = int(os.environ.get("PORT", 6969))  # Default to 8000 if not set
